@@ -1,0 +1,1 @@
+INSERT INTO tb_curso(codigo_curso,codigo_asignatura,codigo_docente) VALUES ('777','555','222');
